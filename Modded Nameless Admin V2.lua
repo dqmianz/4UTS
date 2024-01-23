@@ -2968,14 +2968,6 @@ Command.Add(
 	end
 )
 Command.Add(
-	{"Console", "Cons"},
-	{"Console / Cons", "Makes the dev console visible"},
-	{"None"},
-	function()
-	game.StarterGui:SetCore("DevConsoleVisible", true)
-end
-)
-Command.Add(
 	{"UnProximityPromptESP", "UnPPE"},
 	{"UnProximityPromptESP / UnPPE", "Unhighlights all proximity prompts that are in the game"},
 	{"None"},
