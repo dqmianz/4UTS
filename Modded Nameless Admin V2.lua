@@ -2930,6 +2930,15 @@ Command.Add(
 )
 
 Command.Add(
+	{"Console", "Cons"},
+	{"Console / Cons", "Opens Dev console"},
+	{"None"},
+	function()
+	game.StarterGui:SetCore("DevConsoleVisible", true)
+	end
+)
+
+Command.Add(
 	{"ProximityPromptESP", "PPE"},
 	{"ProximityPromptESP / PPE", "Highlights all proximity prompts that are in the game"},
 	{"None"},
