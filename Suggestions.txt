@@ -104,7 +104,7 @@ you lose reputation by murdering innocent people, or killing government secretar
 __favourite foods depending on the character__
 ```for example, ari says her favourite food
 is flesh so she gets 20% more bonus from 
-eating that 
+eating that (like 20%+ on the energy&food) 
 (should be able to obtain flesh when 
 killing somebody)```
 
@@ -120,5 +120,11 @@ decrease
 the suspicion bar is just to simply move out of
 sight```
 
-
+__LUCK POTIONS__
+```luck potions increase the chances of you
+getting rares or anything above rare,
+2x luck cost: 40
+4x luck cost : 160
+8x luck cost : 560
+16x luck cost : 1200```
 
