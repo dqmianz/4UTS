@@ -112,9 +112,11 @@ __SUSPICION BAR__
 ```when an employee/significant figure or
 bandit sees you with a gun, depending on
 what it is, their suspicion bar will raise
-up slowly or quickly, depending on the intensity
+up slowly or quickly, depending on the 
+intensity
 of the weapon. if their suspicion bar is full
-they will begin to fire at you. a way to decrease
+they will begin to fire at you. a way to 
+decrease
 the suspicion bar is just to simply move out of
 sight```
 
