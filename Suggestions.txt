@@ -100,3 +100,10 @@ hospital, (or serving people in other
 places, gives less reputation though), you 
 can also gain it by murdering bandits
 you lose reputation by murdering innocent people, or killing government secretary```
+
+__favourite foods depending on the character__
+```for example, ari says her favourite food
+is flesh so she gets 20% more bonus from 
+eating that 
+(should be able to obtain flesh when 
+killing somebody)```
