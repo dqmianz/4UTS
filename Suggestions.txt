@@ -1,4 +1,4 @@
-dialogue once you enter a certain area or do a certain thing when hanging out with someone which triggers dialogue
+__dialogue once you enter a certain area or do a certain thing when hanging out with someone which triggers dialogue__
 
 example:
 
@@ -9,7 +9,7 @@ entering the gun store ("are u crazy!?"),
 stealing a car ("atleast the police are horrible and won't do anything"),```
 
 
-new hangout system maybe,
+__new hangout system__
 ```the more time you spend hanging out 
 with them, you get "friend" points which
 adds more dialogue and could also 
@@ -17,7 +17,7 @@ potentially commit crimes with you
 depending on the points & the character```
 
 
-more ways to get money,
+__more ways to get money__
 ```i feel like getting money is too hard 
 in this game and the best way is by 
 picking flowers or getting lucky with the 
@@ -30,47 +30,47 @@ more money made when robbing cashiers, depending on the place (gun place 2-3K)
 (gas station 100-150)
 (clothes store 300-450)```
 
-more buildings & an expanded map
+__more buildings & an expanded map__
 ```definitely add banks & atms, with general security there```
 
-waypoints
+__waypoints__
 ```makes it so that you can place a marker 
 somewhere and it will tell you how close 
 you are to there (like in 3008)```
 
-losing money when killed (like 5%)
+__losing money when killed (like 5%)__
 ```may be controversial
 can store money in atms```
 
 edits:
 
-job experience
+__job experience__
 ```lose job experience if you kill 
 somebody on the job,
 gain +1 job experience everytime you level up```
 
-health bars
+__health bars__
 ```shows health bars above npcs```
 
-damage levels
+__damage levels__
 ```everytime you kill someone you get 
 damage experience and when you level up 
 your guns do more damage (hard to level up 
 though)```
 
-better AI when hanging out
+__better AI when hanging out__
 ```i notice they take lots of long routes 
 instead of short routes, they definitely 
 need more routes to go across,
 they usually get stuck in places where you can sit down (like the pizza place)```
 
-tools
+__tools__
 ```more tools to make things run quicker, like harvesting crops/berries```
 
-items
+__items__
 ```more items that can make you temporarily run faster, have more health temporarily```
 
-adrenaline function
+__adrenaline function__
 ```you get adrenaline from murdering 
 bandits or any significant figure (like 
 cashier), not any normal npc
@@ -82,11 +82,11 @@ robbery adds 30%, killing 1
 bandit/significant figure gives 20%
 new item called "adrenaline shots"```
 
-punching mechanic
+__punching mechanic__
 ```pretty self explanatory, punching does little damage,
 new item called "brass knuckles", doubles punching damage by 2x```
 
-job application system & reputation system
+__job application system & reputation system__
 ```
 __JOB APPLICATION__
 the job application system tells you if 
