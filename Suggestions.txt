@@ -120,3 +120,12 @@ getting rares or anything above rare,
 8x luck cost : 560
 16x luck cost : 1200```
 
+__HARD MODE__
+```in settings, 
+CONS:
+adds the police, increases
+damage dealt to you, worse luck rates
+
+PROS:
+2x more money earnt in that gamemode```
+
