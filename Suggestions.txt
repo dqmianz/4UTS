@@ -89,8 +89,14 @@ new item called "brass knuckles", doubles punching damage by 2x```
 job application system & reputation system
 ```
 __JOB APPLICATION__
-the job application system tells you if you have enough job experience for the job, and if you have enough reputation to go through
+the job application system tells you if 
+you have enough job experience for the 
+job, and if you have enough reputation to 
+go through
 
 __REPUTATION__
-you gain reputation by working in the hospital, (or serving people in other places, gives less reputation though), you can also gain it by murdering bandits
+you gain reputation by working in the 
+hospital, (or serving people in other 
+places, gives less reputation though), you 
+can also gain it by murdering bandits
 you lose reputation by murdering innocent people, or killing government secretary```
