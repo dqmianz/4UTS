@@ -24,7 +24,10 @@ robbing banks
 more money made when robbing cashiers, depending on the place (gun place 2-3K)
 (pizza place 150-300)
 (gas station 100-150)
-(clothes store 300-450)```
+(clothes store 300-450)
+more money dropped when killing civillians
+then robbing them, people aren't living
+off of 3.01```
 
 __MORE BUILDINGS & EXPANDED MAP__
 ```definitely add banks & atms, with general security there```
