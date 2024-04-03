@@ -22,8 +22,10 @@ faster```
 
 
 __PUNCHING__
-```pretty self explanatory, punching does little damage,
-new item called "brass knuckles", doubles punching damage by 2x```
+```pretty self explanatory, 
+punching does little damage,
+new item called "brass knuckles", 
+doubles punching damage by 2x```
 
 
 
