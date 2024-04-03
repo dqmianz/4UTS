@@ -1,6 +1,9 @@
                  ___MORE SIMPLE___
 
 
+
+
+
 __JOB EXPERIENCE__
 ```lose job experience if you kill 
 somebody on the job,
@@ -88,9 +91,11 @@ account like vitexpay```
 
 
 
-
-
                 ___MORE COMPLEX___
+
+
+
+
 
 __MORE BUILDINGS & EXPANDED MAP__
 ```definitely add banks & atms, with general security there```
@@ -206,6 +211,10 @@ this gamemode```
 
 
                  ___AI BASED___
+
+
+
+
 
 
 __TRIGGERED DIALOGUE__
