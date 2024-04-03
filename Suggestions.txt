@@ -1,4 +1,4 @@
-                ___MORE SIMPLE___
+                 ___MORE SIMPLE___
 
 
 __JOB EXPERIENCE__
@@ -88,7 +88,7 @@ account like vitexpay```
 
 
 
-               ___MORE COMPLEX___
+                ___MORE COMPLEX___
 
 __MORE BUILDINGS & EXPANDED MAP__
 ```definitely add banks & atms, with general security there```
@@ -203,7 +203,7 @@ this gamemode```
 
 
 
-                ___AI BASED___
+                 ___AI BASED___
 
 
 __TRIGGERED DIALOGUE__
@@ -223,7 +223,6 @@ __BETTER AI WHEN HANGINGOUT__
 instead of short routes, they definitely 
 need more routes to go across,
 they usually get stuck in places where you can sit down (like the pizza place)```
-
 
 
 
