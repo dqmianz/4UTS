@@ -14,7 +14,8 @@ maybe like rabbits or snow tigers,
 (can be classed as a job and get job
 experience & money)
 some animals are hostile and others
-are not```
+are not
+also drops food```
 
 
 
