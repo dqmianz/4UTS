@@ -1,68 +1,25 @@
    ___THINGS I WOULD LIKE TO BE CONSIDERED___
 
-__CALLING__
-```so you can call a character to
-hangout with them easily instead of having
-to go all the way to their house and then
-wasting time```
+
+``thinking of ideas is so hard 😭🙏``
 
 
 
-__ANIMALS__
-```animals in the forest/mountains,
-maybe like rabbits or snow tigers,
-(can be classed as a job and get job
-experience & money)
-some animals are hostile and others
-are not
-also drops food```
 
 
 
-__CITIZEN CLASS__
-```they could be lower class,
-middle class or upper class
-
-lower class: less likely to have
-a weapon, less cash when you loot
-
-middle class: ehh likely to have
-a weapon, more cash when you loot
-
-upper class: HAS a weapon, ALOT
-more cash when you loot
-the ranges i'm looking for
-lower: 1-3
-middle: 3-5
-upper: 10-13
-
-(i forgot who had the ability
-but they can see the age of people
-and they will also be able to see the
-class if you consider adding it?)```
 
 
 
-__ENERGY REDO__
-```
-100 - 50% - fine, no side effects
-50 - 30% - + slower gun reload times
-30 - 20% - + slower shooting times
-1 - 20% - + blurry vision
-0 - pass out until your energy is at 100%
-```
 
 
-__CAR SYSTEM__ (got bored & made a 5th)
-```car systems are pretty clunky,
-i think they could definitely be better
-(especially on mobile, (maybe make it
-so that you have arrows on mob?))```
 
 
      ___THINGS THAT ARE MORE LIKELY___
 (things you are considering incase
 you haven't saved this or smth)
+
+
 
 __HEALTH BARS__
 ```shows health bars above npcs```
@@ -125,4 +82,24 @@ etc.```
 
 
 
+__CITIZEN CLASS__
+```they could be lower class,
+middle class or upper class
 
+lower class: less likely to have
+a weapon, less cash when you loot
+
+middle class: ehh likely to have
+a weapon, more cash when you loot
+
+upper class: HAS a weapon, ALOT
+more cash when you loot
+the ranges i'm looking for
+lower: 1-3
+middle: 3-5
+upper: 10-13
+
+(i forgot who had the ability
+but they can see the age of people
+and they will also be able to see the
+class if you consider adding it?)```
