@@ -42,6 +42,16 @@ class if you consider adding it?)```
 
 
 
+__ENERGY REDO__
+```
+100 - 50% - fine, no side effects
+50 - 30% - + slower gun reload times
+30 - 20% - + slower shooting times
+1 - 20% - + blurry vision
+0 - pass out until your energy is at 100%
+```
+
+
 
 
 
