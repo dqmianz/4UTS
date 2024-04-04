@@ -18,8 +18,11 @@ then rob the guy controlling it & get like
 
 
 
-
-
+__RELOADING__
+``as of now, reloading can only be done
+if your gun runs out of ammo, it would be
+alot better if you could reload before it
+runs out``
 
 
 
