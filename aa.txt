@@ -1,1 +1,200 @@
-n
+              ______Energy______
+
+
+
+
+Q: ["How would you calculate the ENERGY transferred in a system by a flowing CURRENT?"]
+
+A : "Work done (W) = voltage x current x time = VIT"
+
+
+Q : ["An example of a NON-RENEWABLE energy resource used on Earth is..."]
+
+A : [NEITHER of these]
+
+
+Q : ["Some DOMESTIC HOUSEHOLDS install ---(1)--- on their roofs. This ---(2)--- our dependence on FOSSIL FUELS"]
+
+A : "1: solar panels; 2: decreases"
+
+
+Q: ["When water is brought to the BOIL in an electric kettle, -(1)--- transfers energy to a ---(2)--- energy store"]
+
+A : "1: an electric current; 2: thermal"
+
+
+Q: ["BIOFUELS are often suggested as an alternative to FOSSIL FUELS. Which of these options shows a TRUE DRAWBACK of biofuels"]
+
+A: "BIOFUELS are made using crops that would otherwise provide FOOD"
+
+
+Q : 2["BIOFUELS are often suggested as an alternative to FOSSIL FUELS. Which of these options shows a TRUE DRAWBACK of biofuels"]
+
+A : "Burning BIOFUELS may emit as much CO2 as they absorbed while growing, but their production processes and transport emit EXTRA CO2"
+
+
+Q: ["Energy can't be CREATED but can be
+
+A: "transferred"
+
+
+Q : ["The equation governing SPECIFIC HEAT CAPACITY is given as AE mcAd. What does the Ad represent?"]
+
+A : "Change in TEMPERATURE"
+
+
+Q : ["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in....
+
+A : "[BOTH of these]: They mean the same thing"
+
+
+Q : ["The production of ELECTRICITY can cause problems for the ENVIRONMENT. What could be a drawback of using WIND POWER to produce electricity"]
+
+A : "[ALL OF THESE]"
+
+
+Q : ["One reason that we still use ---(1)--- energy resources is because in times of high demand we need a ---(2)---power source to help deliver sufficient energy"
+
+A : "1: non-renewable; 2: reliable"
+
+
+
+
+           ______Energy Changes______
+
+Q : ["The OVERALL ENERGY CHANGE between reactants and products is equal to..."]
+
+A : "the DIFFERENCE between the total energy REQUIRED to BREAK bonds and the total energy RELEASED when FORMING bonds"
+
+
+Q : ["TRUE or FALSE?] The amount of ENERGY in the universe at the END of a reaction is always altered from the amount BEFORE the reaction"]
+
+A : "[FALSE]: Energy is CONSERVED in the universe, though it may be taken in or released from a closed system"
+
+
+Q : ["During ENDOTHERMIC reactions..."]
+
+A : "ENERGY is TAKEN IN from the surrounding environment"
+
+
+Q : ["In an ENDOTHERMIC reaction, the energy ---(1)--- when BREAKING bonds is ---(2)--- than the energy released when FORMING new bonds"]
+
+A : "1: required; 2: greater"
+
+
+Q : ["In an EXOTHERMIC reaction, the energy ---(1)--- when FORMING new bonds is ---(2)--- than energy required to BREAK bonds"]
+
+A : "1: released; 2: greater"
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+
+
+
+
+
+
+        _____Infection and response_____
+
+
+
+
+Q : ["Which are bigger - bacteria or viruses?"
+
+A : "Bacteria are around 10 to 100 times bigger (in length)"
+
+
+Q : ["PLANTS do not have ---(1)--- and therefore cannot produce antibodies. However, they can produce substances such as ---(2)---, which can be used medically by HUMANS."]
+
+A : "1: white blood cells; 2: aspirin"
+
+
+Q : ["What is the PRIMARY VECTOR responsible for the spread of MALARIA?"]
+
+A : "Mosquitoes"
+
+
+Q : ["---(1)--- VIRUSES are pathogens (but not necessarily to humans), and ALL pathogens ---(2)---."]
+
+A : "1: All; 2: cause infection & disease"
+
+
+Q : ["VACCINATION can provide IMMUNITY against certain diseases. It involves injecting INACTIVE pathogens in the form of specific ---(1)---. This causes WHITE BLOOD CELLS to produce ---(2)--- which combat any possible future infection."]
+
+A : "1: antigens; 2: antibodies"
+
+
+Q : ["The IMMUNE SYSTEM attempts to defeat diseases through the actions of..."]
+
+A : "WHITE blood cells"
+
+
+Q : ["MUTATION of bacteria can lead to new bacteria which are..."]
+
+A : "RESISTANT to antibiotics"
+
+
+Q : ["Diseases caused by BACTERIA include..."]
+
+A : "[ALL OF THESE]"
+
+
+Q : ["The WINDPIPE is lined with tiny hairs called ---(1)---. These hair-like projections move ---(2)--- and dust away from the LUNGS and into the throat"]
+
+A : "1: cilia; 2: mucus"
+
+
+Q : ["Which of these is a method the human body uses to protect itself from MICROBES? [Pay attention to the KEY WORDS - some of these answers MAY have the words intentionally mixed up!]"]
+
+A : "HYDROCHLORIC ACID in the stomach destroys pathogens in food"
+
+
+Q : ["How do the white blood cells known as PHAGOCYTES respond to pathogens"]
+
+A : "They physically 'capture' and INGEST ('eat') the foreign cell"
+
+
+
+
+
+
+
+
+
+
+
+
