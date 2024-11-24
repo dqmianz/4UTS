@@ -552,6 +552,77 @@ A: "an EXOTHERMIC reaction"
 
 Q: ["Which of these everyday items utilises an ENDOTHERMIC reaction?"]
 A: "Instant ice packs"
+---
+
+
+Infection and Response
+
+
+
+
+
+Q: ["Antibiotics have an effect on..."]
+A: "bacteria"
+
+Q: ["Diseases caused by BACTERIA include..."]
+A: "[ALL OF THESE]"
+
+Q: ["Drugs are tested using BLIND TRIALS, which means... (N.B. This is different to a DOUBLE-blind trial)"]
+A: "ONLY the RESEARCHERS know what medication/vaccine the participants are taking (the patients don't know)"
+
+Q: ["Here are four steps that show the process of IMMUNISATION. Which happens LAST?"]
+A: "If the pathogen re-enters the body, the white blood cells 'remember' the correct antibody to produce - preventing infection"
+
+Q: ["How do the white blood cells known as PHAGOCYTES respond to pathogens"]
+A: "They physically 'capture' and INGEST ('eat') the foreign cell"
+
+Q: ["If REINFECTION occurs, ANTIBODIES are produced much more quickly by..."]
+A: "memory lymphocytes"
+
+Q: ["MUTATION of bacteria can lead to new bacteria which are..."]
+A: "RESISTANT to antibiotics"
+
+Q: ["Most VIRUSES are ---(1)--- than BACTERIA, and only REPRODUCE inside ---(2)--- cells."]
+A: "1: smaller; 2: host"
+
+Q: ["PLANTS do not have ---(1)--- and therefore cannot produce antibodies. However, they can produce substances such as ---(2)---, which can be used medically by HUMANS."]
+A: "1: white blood cells; 2: aspirin"
+
+Q: ["The IMMUNE SYSTEM attempts to defeat diseases through the actions of..."]
+A: "WHITE blood cells"
+
+Q: ["The WINDPIPE is lined with tiny hairs called ---(1)---. These hair-like projections move ---(2)--- and dust away from the LUNGS and into the throat"]
+A: "1: cilia; 2: mucus"
+
+Q: ["VACCINATION can provide IMMUNITY against certain diseases. It involves injecting INACTIVE pathogens in the form of specific ---(1)---. This causes WHITE BLOOD CELLS to produce ---(2)--- which combat any possible future infection."]
+A: "1: antigens; 2: antibodies"
+
+Q: ["What is the PRIMARY VECTOR responsible for the spread of MALARIA?"]
+A: "Mosquitoes"
+
+Q: ["Which are bigger - bacteria or viruses?"]
+A: "Bacteria are around 10 to 100 times bigger (in length)"
+
+Q: ["Which of the following is an ADVANTAGE of vaccinations?"]
+A: "[ALL of these]"
+
+Q: ["Which of the following terms BEST describes antibiotics?"]
+A: "Substances that KILL and PREVENT growth of bacteria"
+
+Q: ["Which of the following would help you fight off unwanted PATHOGENS?"]
+A: "[ALL of these]"
+
+Q: ["Which of these is a method the human body uses to protect itself from MICROBES? [Pay attention to the KEY WORDS - some of these answers MAY have the words intentionally mixed up!]"]
+A: "HYDROCHLORIC ACID in the stomach destroys pathogens in food"
+
+Q: ["Why is the common COLD and INFLUENZA so hard to prevent with VACCINATIONS?"]
+A: "The viruses MUTATE very QUICKLY, therefore new vaccines have to be developed constantly"
+
+Q: ["---(1)--- VIRUSES are pathogens (but not necessarily to humans), and ALL pathogens ---(2)---."]
+A: "1: All; 2: cause infection & disease"
+
+
+---
 
 
 
