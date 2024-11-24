@@ -80,7 +80,7 @@ A : "[BOTH OF THESE]"
 
 Q : ["Energy transferred could be found using..."]
 
-A : "Energy (kWh) = Power (kW) = Time (h)"
+A : "Energy (kWh) = Power (kW) x Time (h)"
 
 
 Q : 2["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
@@ -101,6 +101,56 @@ A : (no watts) "joules/second"
 Q : ["Energy transferred could be found using..."]
 
 A : "Energy (kWh) = Power (kW) × Time (h)"
+
+
+Q : ["ENERGY WASTE occurs when energy is transferred into forms that are NOT useful. Which of these can be used to REDUCE unwanted energy transfers"]
+
+A : "Lubrication"
+
+
+Q : ["Which of these formulae shows the calculation for change in GRAVITATIONAL POTENTIAL ENERGY?"]
+
+A : "[BOTH of these]"
+
+
+Q : ["BIOFUELS are often suggested as an alternative to FOSSIL FUELS for car engines. Which of these POSITIVE statements about biofuels is TRUE?"]
+
+A : "BIOFUEL production provides INCOME for FARMERS and creates IOBS"
+
+
+Q : ["What is calculated by dividing "USEFUL energy OUTPUT" by "TOTAL energy INPUT"?"]
+
+A : "Efficiency"
+
+
+Q : ["The equation governing SPECIFIC HEAT CAPACITY is given as AE = mcAO. What does the m represent?"]
+
+A : "Mass"
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
 
 
 
@@ -163,6 +213,56 @@ A : "LOWER - energy has been released"
 Q : ["TRUE or FALSE?]: In an EXOTHERMIC reaction, the BOND energy of the REACTANTS is GREATER than the PRODUCTS"]
 
 A : "[FALSE]: In an EXOTHERMIC reaction, more energy is released in FORMING the PRODUCTS' bonds than is required to BREAK the REACTANTS' bonds"
+
+
+Q : ["In an EXOTHERMIC reaction, the energy ---(1)--- is GREATER than the energy ---(2)---."]
+
+A : "1: RELEASED from CREATING new bonds; 2: NEEDED to BREAK existing bonds"
+
+
+Q : ["Combustion, neutralisation and many oxidation reactions are examples of ---(1)--- reactions, because HEAT ENERGY is ---(2)---the surroundings"]
+
+A : "1: exothermic; 2: given to"
+
+
+Q : ["Which of these everyday items utilises an ENDOTHERMIC reaction?"]
+
+A : "Instant ice packs"
+
+
+Q : ["During an explosion (an exothermic reaction) the heat energy comes from..."]
+
+A : "new bonds being formed"
+
+
+Q : ["When a fuel is BURNED in OXYGEN, known as a COMBUSTION reaction, this is an example of..."]
+
+A : "an EXOTHERMIC reaction"
+
+
+Q : ["A chemical reaction which is ENDOTHERMIC transfers energy - --(1)--- the surroundings, so the molecules in the reaction now have ---(2)--- energy"]
+
+A : "1: from; 2: more"
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
 
 
 
@@ -271,6 +371,51 @@ A : "[ALL of these]"
 Q : ["Drugs are tested using BLIND TRIALS, which means... (N.B. This is different to a DOUBLE-blind trial)"]
 
 A : "ONLY the RESEARCHERS know what medication/vaccine the participants are taking (the patients don't know)"
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
+
+Q : [""]
+
+A : ""
+
 
 
 
