@@ -417,6 +417,145 @@ Q : [""]
 A : ""
 
 
+------------ALPHABETICAL---------------
+
+Energy
+
+
+
+
+Q: ["An example of a NON-RENEWABLE energy resource used on Earth is..."]
+A: "[NEITHER of these]"
+
+Q: ["BIOFUELS are often suggested as an alternative to FOSSIL FUELS. Which of these options shows a TRUE DRAWBACK of biofuels"]
+A: "BIOFUELS are made using crops that would otherwise provide FOOD"
+
+Q: ["BIOFUELS are often suggested as an alternative to FOSSIL FUELS. Which of these options shows a TRUE DRAWBACK of biofuels"]
+A: "Burning BIOFUELS may emit as much CO2 as they absorbed while growing, but their production processes and transport emit EXTRA CO2"
+
+Q: ["BIOFUELS are often suggested as an alternative to FOSSIL FUELS for car engines. Which of these POSITIVE statements about biofuels is TRUE?"]
+A: "BIOFUEL production provides INCOME for FARMERS and creates JOBS"
+
+Q: ["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
+A: "[BOTH of these]: They mean the same thing"
+
+Q: ["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
+A: "(no watts) joules/second"
+
+Q: ["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
+A: "(no joules/s) watts"
+
+Q: ["Energy can't be CREATED but can be"]
+A: "transferred"
+
+Q: ["Energy transferred could be found using..."]
+A: "Energy (kWh) = Power (kW) × Time (h)"
+
+Q: ["Energy transferred could be found using..."]
+A: "Energy (kWh) = Power (kW) × Time (h)"
+
+Q: ["ENERGY WASTE occurs when energy is transferred into forms that are NOT useful. Which of these can be used to REDUCE unwanted energy transfers"]
+A: "Lubrication"
+
+Q: ["How would you calculate the ENERGY transferred in a system by a flowing CURRENT?"]
+A: "Work done (W) = voltage x current x time = VIT"
+
+Q: ["One reason that we still use ---(1)--- energy resources is because in times of high demand we need a ---(2)---power source to help deliver sufficient energy"]
+A: "1: non-renewable; 2: reliable"
+
+Q: ["Some DOMESTIC HOUSEHOLDS install ---(1)--- on their roofs. This ---(2)--- our dependence on FOSSIL FUELS"]
+A: "1: solar panels; 2: decreases"
+
+Q: ["The equation governing SPECIFIC HEAT CAPACITY is given as AE = mcAd. What does the Ad represent?"]
+A: "Change in TEMPERATURE"
+
+Q: ["The equation governing SPECIFIC HEAT CAPACITY is given as AE = mcAO. What does the m represent?"]
+A: "Mass"
+
+Q: ["The production of ELECTRICITY can cause problems for the ENVIRONMENT. What could be a drawback of using WIND POWER to produce electricity"]
+A: "[ALL OF THESE]"
+
+Q: ["What is calculated by dividing 'USEFUL energy OUTPUT' by 'TOTAL energy INPUT'?"]
+A: "Efficiency"
+
+Q: ["When calculating ENERGY transferred, which formulae could you use?"]
+A: "[BOTH OF THESE]"
+
+Q: ["When water is brought to the BOIL in an electric kettle, -(1)--- transfers energy to a ---(2)--- energy store"]
+A: "1: an electric current; 2: thermal"
+
+Q: ["Which is a correct formula relating ENERGY to POWER?"]
+A: "Energy (J) = Power (W) × Time (s)"
+
+Q: ["Which of these equations is TRUE?"]
+A: "Power = work done / time taken"
+
+Q: ["Which of these formulae is correct for calculating ENERGY transferred?"]
+A: "[NEITHER of these because the units for time are both wrong]"
+
+Q: ["Which of these formulae shows the calculation for change in GRAVITATIONAL POTENTIAL ENERGY?"]
+A: "[BOTH of these]"
+
+Q: ["[TRUE or FALSE?]: Power is the RATE at which WORK is done"]
+A: "[TRUE]: We calculate it by dividing ENERGY transferred by TIME taken (P = E/t)"
+
+
+---
+
+Energy Changes
+
+
+
+
+
+Q: ["A chemical reaction which is ENDOTHERMIC transfers energy - --(1)--- the surroundings, so the molecules in the reaction now have ---(2)--- energy."]
+A: "1: from; 2: more"
+
+Q: ["Combustion, neutralisation and many oxidation reactions are examples of ---(1)--- reactions, because HEAT ENERGY is ---(2)---the surroundings."]
+A: "1: exothermic; 2: given to"
+
+Q: ["During an explosion (an exothermic reaction) the heat energy comes from..."]
+A: "new bonds being formed"
+
+Q: ["During ENDOTHERMIC reactions..."]
+A: "ENERGY is TAKEN IN from the surrounding environment"
+
+Q: ["Following an EXOTHERMIC REACTION will the products have a higher or lower energy level than the reactants?"]
+A: "LOWER - energy has been released"
+
+Q: ["In an ENDOTHERMIC reaction, the energy ---(1)--- when BREAKING bonds is ---(2)--- than the energy released when FORMING new bonds."]
+A: "1: required; 2: greater"
+
+Q: ["In an EXOTHERMIC reaction, the energy ---(1)--- is GREATER than the energy ---(2)---."]
+A: "1: RELEASED from CREATING new bonds; 2: NEEDED to BREAK existing bonds"
+
+Q: ["In an EXOTHERMIC reaction, the energy ---(1)--- when FORMING new bonds is ---(2)--- than energy required to BREAK bonds."]
+A: "1: released; 2: greater"
+
+Q: ["In an EXOTHERMIC reaction, the TEMPERATURE of the SURROUNDINGS"]
+A: "increases"
+
+Q: ["The OVERALL ENERGY CHANGE between reactants and products is equal to..."]
+A: "the DIFFERENCE between the total energy REQUIRED to BREAK bonds and the total energy RELEASED when FORMING bonds"
+
+Q: ["TRUE or FALSE?]: In an EXOTHERMIC reaction, the BOND energy of the REACTANTS is GREATER than the PRODUCTS."]
+A: "[FALSE]: In an EXOTHERMIC reaction, more energy is released in FORMING the PRODUCTS' bonds than is required to BREAK the REACTANTS' bonds"
+
+Q: ["TRUE or FALSE?] The amount of ENERGY in the universe at the END of a reaction is always altered from the amount BEFORE the reaction."]
+A: "[FALSE]: Energy is CONSERVED in the universe, though it may be taken in or released from a closed system"
+
+Q: ["What is the total ENERGY CHANGE in the reaction '3H2 + N2 → 2NH3' [Bond energies (kj/mol): H-H = 432, N-N = 942, N-H = 386]"]
+A: "(3 x 432) + 942 - 2(3 x 386) = -78 kJ/mol"
+
+Q: ["When a fuel is BURNED in OXYGEN, known as a COMBUSTION reaction, this is an example of..."]
+A: "an EXOTHERMIC reaction"
+
+Q: ["Which of these everyday items utilises an ENDOTHERMIC reaction?"]
+A: "Instant ice packs"
+
+
+
+
 
 
 
