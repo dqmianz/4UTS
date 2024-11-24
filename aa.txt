@@ -58,9 +58,62 @@ Q : ["One reason that we still use ---(1)--- energy resources is because in time
 A : "1: non-renewable; 2: reliable"
 
 
+Q : ["Which of these formulae is correct for calculating ENERGY transferred?"]
+
+A : "[NEITHER of these because the units for time are both wrong]"
+
+
+Q : ["Which of these equations is TRUE?"]
+
+A : "Power = work done / time taken"
+
+
+Q : ["[TRUE or FALSE?]: Power is the RATE at which WORK is done"]
+
+A : "[TRUE]: We calculate it by dividing ENERGY transferred by TIME taken (P E/t)"
+
+
+Q : ["When calculating ENERGY transferred, which formulae could you use?"]
+
+A : "[BOTH OF THESE]"
+
+
+Q : ["Energy transferred could be found using..."]
+
+A : "Energy (kWh) = Power (kW) = Time (h)"
+
+
+Q : 2["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
+
+A : (no jules/s) "watts"
+
+
+Q : ["Which is a correct formula relating ENERGY to POWER?"]
+
+A : "Energy (J) = Power (W) × Time (s)"
+
+
+Q : ["Electrical power is the RATE at which ENERGY is transferred by a component or appliance. It is measured in..."]
+
+A : (no watts) "joules/second"
+
+
+Q : ["Energy transferred could be found using..."]
+
+A : "Energy (kWh) = Power (kW) × Time (h)"
+
+
+
+
+
+
 
 
            ______Energy Changes______
+
+
+
+
 
 Q : ["The OVERALL ENERGY CHANGE between reactants and products is equal to..."]
 
@@ -87,42 +140,29 @@ Q : ["In an EXOTHERMIC reaction, the energy ---(1)--- when FORMING new bonds is 
 A : "1: released; 2: greater"
 
 
-Q : [""]
+Q : ["A chemical reaction which is ENDOTHERMIC transfers energy - --(1)--- the surroundings, so the molecules in the reaction now have ---(2)--- energy."]
 
-A : ""
-
-
-Q : [""]
-
-A : ""
+A : "1: from; 2: more"
 
 
-Q : [""]
+Q : ["In an EXOTHERMIC reaction, the TEMPERATURE of the SURROUNDINGS"]
 
-A : ""
-
-
-Q : [""]
-
-A : ""
+A : "increases"
 
 
-Q : [""]
+Q : ["What is the total ENERGY CHANGE in the reaction "3H2 + N 2 → 2NH3" [Bond energies (kj/mol): H-H = 432, N-N = 942, N-H = 386]"]
 
-A : ""
-
-
-Q : [""]
-
-A : ""
+A : "(3 x 432) + 942 - 2(3 x 386) = - 78 kJ/mol"
 
 
-Q : [""]
+Q : ["Following an EXOTHERMIC REACTION will the products have a higher or lower energy level than the reactants?"]
 
-A : ""
+A : "LOWER - energy has been released"
 
 
+Q : ["TRUE or FALSE?]: In an EXOTHERMIC reaction, the BOND energy of the REACTANTS is GREATER than the PRODUCTS"]
 
+A : "[FALSE]: In an EXOTHERMIC reaction, more energy is released in FORMING the PRODUCTS' bonds than is required to BREAK the REACTANTS' bonds"
 
 
 
@@ -186,6 +226,55 @@ A : "HYDROCHLORIC ACID in the stomach destroys pathogens in food"
 Q : ["How do the white blood cells known as PHAGOCYTES respond to pathogens"]
 
 A : "They physically 'capture' and INGEST ('eat') the foreign cell"
+
+
+Q : ["Here are four steps that show the process of IMMUNISATION. Which happens LAST?"]
+
+A : "If the pathogen re-enters the body, the white blood cells "remember" the correct antibody to produce - preventing infection"
+
+
+Q : ["Why is the common COLD and INFLUENZA so hard to prevent with VACCINATIONS?"]
+
+A : "The viruses MUTATÈ very QUICKLY, therefore new vaccines have to be developed constantly"
+
+
+Q : ["Antibiotics have an effect on..."]
+
+A : "bacteria"
+
+
+Q : ["If REINFECTION occurs, ANTIBODIES are produced much more quickly by..."]
+
+A : "memory lymphocytes"
+
+
+Q : ["Which of the following is an ADVANTAGE of vaccinations?"]
+
+A : "[ALL of these]"
+
+
+Q : ["Most VIRUSES are ---(1)--- than BACTERIA, and only REPRODUCE inside ---(2)--- cells."]
+
+A : "1: smaller; 2: host"
+
+
+Q : ["Which of the following terms BEST describes antibiotics?"]
+
+A : "Substances that KILL and PREVENT growth of bacteria"
+
+
+Q : ["Which of the following would help you fight off unwanted PATHOGENS?"]
+
+A : "[ALL of these]"
+
+
+Q : ["Drugs are tested using BLIND TRIALS, which means... (N.B. This is different to a DOUBLE-blind trial)"]
+
+A : "ONLY the RESEARCHERS know what medication/vaccine the participants are taking (the patients don't know)"
+
+
+
+
 
 
 
