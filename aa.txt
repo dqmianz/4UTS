@@ -564,17 +564,30 @@ Infection and Response
 Q: ["Antibiotics have an effect on..."]
 A: "bacteria"
 
+Q: ["Below are FOUR steps in the DEVELOPMENT OF DRUGS. Which comes LAST?"]
+A: "Further CLINICAL trials are done to ensure the drug is safe and to find the OPTIMAL DOSE of the drug"
+
 Q: ["Diseases caused by BACTERIA include..."]
 A: "[ALL OF THESE]"
 
 Q: ["Drugs are tested using BLIND TRIALS, which means... (N.B. This is different to a DOUBLE-blind trial)"]
 A: "ONLY the RESEARCHERS know what medication/vaccine the participants are taking (the patients don't know)"
 
+Q: ["HERD immunity helps..."]
+A: "to prevent disease EPIDEMICS"
+
 Q: ["Here are four steps that show the process of IMMUNISATION. Which happens LAST?"]
 A: "If the pathogen re-enters the body, the white blood cells 'remember' the correct antibody to produce - preventing infection"
 
+Q: ["How the white blood cells known as LYMPHOCYTES respond to pathogens?"]
+A: "They produce an antibody known as an ANTITOXIN which counteracts the effects of toxins produced by the foreign cell"
+
+
 Q: ["How do the white blood cells known as PHAGOCYTES respond to pathogens"]
 A: "They physically 'capture' and INGEST ('eat') the foreign cell"
+
+Q: ["How is the structure of CILIATED cells suited to their function in the respiratory tract?"]
+A: "Their CILIA allow them to FILTER and MOISTEN incoming AIR"
 
 Q: ["If REINFECTION occurs, ANTIBODIES are produced much more quickly by..."]
 A: "memory lymphocytes"
@@ -585,8 +598,18 @@ A: "RESISTANT to antibiotics"
 Q: ["Most VIRUSES are ---(1)--- than BACTERIA, and only REPRODUCE inside ---(2)--- cells."]
 A: "1: smaller; 2: host"
 
+Q: ["Pathogenic BACTERIAL cells..."]
+A: "produce TOXINS"
+
 Q: ["PLANTS do not have ---(1)--- and therefore cannot produce antibodies. However, they can produce substances such as ---(2)---, which can be used medically by HUMANS."]
 A: "1: white blood cells; 2: aspirin"
+
+Q: ["PROTOCTISTA (protists) are a category of species that..."]
+A: "[ANY of these]"
+
+Q: ["The disease TUBERCULOSIS is caused by..."]
+A: "bacteria"
+
 
 Q: ["The IMMUNE SYSTEM attempts to defeat diseases through the actions of..."]
 A: "WHITE blood cells"
@@ -620,6 +643,9 @@ A: "The viruses MUTATE very QUICKLY, therefore new vaccines have to be developed
 
 Q: ["---(1)--- VIRUSES are pathogens (but not necessarily to humans), and ALL pathogens ---(2)---."]
 A: "1: All; 2: cause infection & disease"
+
+Q: ["---(1)--- are white blood cells that can ENGULF and ABSORB pathogens, whereas ---(2)--- can release ANTIBODIES to fit the ANTIGEN of a pathogen."]
+A: "1: Phagocytes; 2: lymphocytes"
 
 
 ---
