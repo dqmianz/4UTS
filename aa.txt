@@ -638,6 +638,9 @@ A: "[ALL of these]"
 Q: ["Which of these is a method the human body uses to protect itself from MICROBES? [Pay attention to the KEY WORDS - some of these answers MAY have the words intentionally mixed up!]"]
 A: "HYDROCHLORIC ACID in the stomach destroys pathogens in food"
 
+Q: ["Which of these is a method the human body uses to protect itself from MICROBES? [Pay attention to the KEY WORDS - some of these answers MAY have the words intentionally mixed up!"]
+A: "Tiny hair cells in the airways, known as CILIA. MΜOVE microbes and irritants away from the lungs"
+
 Q: ["Why is the common COLD and INFLUENZA so hard to prevent with VACCINATIONS?"]
 A: "The viruses MUTATE very QUICKLY, therefore new vaccines have to be developed constantly"
 
