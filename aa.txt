@@ -647,6 +647,10 @@ A: "1: All; 2: cause infection & disease"
 Q: ["---(1)--- are white blood cells that can ENGULF and ABSORB pathogens, whereas ---(2)--- can release ANTIBODIES to fit the ANTIGEN of a pathogen."]
 A: "1: Phagocytes; 2: lymphocytes"
 
+Q: ["---(1)--- is caused by a pathogenic fungi because pathogens ---(2)---"]
+A: "1: athlete's foot: 2: cause INFECTION & DISEASE"
+
+
 
 ---
 
